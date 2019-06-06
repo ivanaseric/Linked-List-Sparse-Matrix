@@ -1,2 +1,2 @@
-# CS_610_Project
-Sparse matrix implementation, project for CS 610 class.  
+# Linked-List-Sparse-Matrix
+Sparse matrix implementation using Linked List data structure. This was a fun project for a CS class.  
